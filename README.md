@@ -1,2 +1,5 @@
-# aws-vpc-peering-ewb
-AWS VPC Peering project for EWB Cloud Labs - Jaideep, AWS Internship Batch 1 (Sydney ap-southeast-2)
+# AWS VPC Peering - EWB Cloud Labs
+Student: Jaideep | Batch: AWS Internship Batch 1
+Region: Asia Pacific (Sydney) ap-southeast-2
+Report: Jaideep_EWB_VPC_Peering.pdf
+Screenshots: see /screenshots
